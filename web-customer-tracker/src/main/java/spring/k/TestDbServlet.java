@@ -1,4 +1,4 @@
-package main.java;
+package spring.k;
 
 import java.io.IOException;
 import java.io.PrintWriter;
